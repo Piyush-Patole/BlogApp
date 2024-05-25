@@ -15,6 +15,7 @@ Technical Requirements =>
 Posts Management => Posts are stored in an in-memory array since no database is used now. 
 
 Screenshots =>
+
 ![Homepage](https://github.com/Piyush-Patole/BlogApp/assets/73785010/9a2b61db-f311-4177-b577-7a0c92364f7f)
 Homepage
 
